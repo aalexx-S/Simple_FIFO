@@ -11,7 +11,7 @@ Notice that fifos are strictly uni-directional.
 ### Init
 
 ```python
-from fifo_manager import FIFOManager
+from simplefifo.fifomanager import FIFOManager
 ```
 
 Open for read:
